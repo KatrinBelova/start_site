@@ -1,13 +1,5 @@
 # Boilerplate for quick start site building
 
-### Examples of projects based on it
-
-- *https://github.com/verbart/business-landing*
-- *https://github.com/verbart/stox-market*
-- *https://github.com/verbart/avarcom*
-
----
-
 ### Contains
 
 - **Tools**
